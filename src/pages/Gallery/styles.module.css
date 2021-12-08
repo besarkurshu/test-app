@@ -1,0 +1,12 @@
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 30px;
+}
+.paragraph {
+  text-align: center;
+  margin: 40px 0 20px 0;
+}
+hr {
+  border: 1px solid #eaeaea;
+}
